@@ -1,4 +1,5 @@
- chester-emby-happy/version: "3.7"
+chester-emby-happy/
+version: "3.7"
 
 services:
 
